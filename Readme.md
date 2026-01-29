@@ -1,4 +1,4 @@
-!["Main Image"](https://github.com/Jubadevlopment/Kawaii-AeroX-V1/blob/ac8604db04d9fdb417ce69e8541f866a6d225dd6/Img/mainimg.webp "AdminLTE Presentation")
+!["Main Image"](https://github.com/jubaaerox/Kawaii-AeroX-V1/blob/e06adb4ae5a365a247907f047240dff42e83f200/Img/mainimg.webp "AdminLTE Presentation")
 
 
 # Kawaii
@@ -27,10 +27,10 @@ A comprehensive Discord logging bot that monitors and records all guild activiti
 - User Updates
 
 ### dashboard preview 
-!["Main Image"](https://github.com/Jubadevlopment/Kawaii-AeroX-V1/blob/f5016c4697ba625f22ce241546c6de0871ff25fa/Img/dashboardmain.jpg "AdminLTE Presentation")
-!["Main Image"](https://github.com/Jubadevlopment/Kawaii-AeroX-V1/blob/f5016c4697ba625f22ce241546c6de0871ff25fa/Img/dashboardlogin.jpg "AdminLTE Presentation")
-!["Main Image"](https://github.com/Jubadevlopment/Kawaii-AeroX-V1/blob/f5016c4697ba625f22ce241546c6de0871ff25fa/Img/dashboardserver.jpg "AdminLTE Presentation")
-!["Main Image"](https://github.com/Jubadevlopment/Kawaii-AeroX-V1/blob/f5016c4697ba625f22ce241546c6de0871ff25fa/Img/dashboardcustome.jpg "AdminLTE Presentation")
+!["Main Image"](https://github.com/jubaaerox/Kawaii-AeroX-V1/blob/e06adb4ae5a365a247907f047240dff42e83f200/Img/dashboardmain.jpg "AdminLTE Presentation")
+!["Main Image"](https://github.com/jubaaerox/Kawaii-AeroX-V1/blob/e06adb4ae5a365a247907f047240dff42e83f200/Img/dashboardlogin.jpg "AdminLTE Presentation")
+!["Main Image"](https://github.com/jubaaerox/Kawaii-AeroX-V1/blob/e06adb4ae5a365a247907f047240dff42e83f200/Img/dashboardserver.jpg "AdminLTE Presentation")
+!["Main Image"](https://github.com/jubaaerox/Kawaii-AeroX-V1/blob/e06adb4ae5a365a247907f047240dff42e83f200/Img/dashboardcustome.jpg "AdminLTE Presentation")
 ## Setup Instructions
 
 ### Prerequisites
@@ -56,8 +56,12 @@ A comprehensive Discord logging bot that monitors and records all guild activiti
    - Add your Discord Bot Token:
      ```javascript
      REDIRECT_URI: "http://your_domain:port/auth/callback",
+     TOKEN: "bottoken",
+     CLIENT_ID: "botid",
+     CLIENT_SECRET: "botsecret",
      DASHBOARD_PORT: "localhost:port"
      PREFIX: "bot prefix"
+     
      ```
 
 4. **Start the Bot**
