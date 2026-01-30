@@ -133,7 +133,7 @@ The dashboard provides RESTful API endpoints for accessing logs:
 ## Support
 
 Join our community Discord server for support and updates:
-- **Support Server**: [discord.gg/aerox](https://discord.gg/aerox)
+- **Support Server**: [discord.gg/cordex](https://discord.gg/xjZAAxnmtF)
 
 ## Credits
 
